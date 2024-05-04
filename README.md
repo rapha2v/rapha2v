@@ -14,7 +14,7 @@
 
 <br />
 <div>
-![](https://github.com/rapha2v/rapha2v/funny-cat.gif)
+![me](https://github.com/rapha2v/rapha2v/blob/main/funny-cat.gif)
 </div>
 <br />
 
