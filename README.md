@@ -14,7 +14,7 @@
 
 <br />
 <div>
-![](https://tenor.com/pt-BR/view/funny-cat-reaction-screaming-gif-27691350)
+![](https://github.com/rapha2v/rapha2v/funny-cat.gif)
 </div>
 <br />
 
