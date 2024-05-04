@@ -14,7 +14,7 @@
 
 <br />
 <div>
-<img loading="lazy" height="180em" src="https://tenor.com/pt-BR/view/funny-cat-reaction-screaming-gif-27691350"/>
+![](https://tenor.com/pt-BR/view/funny-cat-reaction-screaming-gif-27691350)
 </div>
 <br />
 
