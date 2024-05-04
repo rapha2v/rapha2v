@@ -14,7 +14,7 @@
 
 <br />
 <div>
-![me](https://github.com/rapha2v/rapha2v/blob/main/funny-cat.gif)
+<img src="https://github.com/rapha2v/rapha2v/blob/main/funny-cat.gif" width="300">
 </div>
 <br />
 
